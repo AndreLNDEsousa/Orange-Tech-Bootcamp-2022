@@ -17,7 +17,7 @@ function aplicarJuros(valor, juros){
 }
 
 const precoEtiqueta = 100;
-const formaDePagamento = 1;
+const formaDePagamento = 4;
 
 if (formaDePagamento === 1) {
     console.log('Preço Final Debito  10% desc.=');
